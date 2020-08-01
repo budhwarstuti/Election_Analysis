@@ -1,7 +1,8 @@
 # **Election_Analysis_Python**
 
 ## **Overview of Election Audit:** 
-The main purpose of this election audit analysis is to help Seth and Tom with some election data with regards to candidates and counties to complete the audit. This includ        * Total number of votes cast.
+The main purpose of this election audit analysis is to help Seth and Tom with some election data with regards to candidates and counties to complete the audit. This include:
+* Total number of votes cast.
 * List of candidates who received votes.
 * Vote count and vote percentage for all candidates.
 * Winning candidate with his/her vote count and vote percentage.
@@ -9,7 +10,7 @@ The main purpose of this election audit analysis is to help Seth and Tom with so
 * The percentage of votes from each county out of the total count.
 * The county with the highest turnout.
 
-# **Election-Audit Results:** 
+## **Election-Audit Results:** 
 * A total of 369,711 votes were cast in this congressional election.
 
 * The county-wise votes were as follows:
@@ -26,7 +27,7 @@ The main purpose of this election audit analysis is to help Seth and Tom with so
 
 * Diana DeGette won the election, with a vote count of 272,892, which is 73.8% of total votes
 
-# **Election-Audit Summary:**
+## **Election-Audit Summary:**
 As a business proposal, the script can be used in future for election analysis and audit purpose. 
 The script can be used and mofdified if required for the following cases:
 * More number and other set of candidates.
